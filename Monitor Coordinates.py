@@ -1,5 +1,4 @@
 import pyautogui as pag 
-from PIL import ImageGrab 
 import keyboard
 
 print("기본: 0,0 ~ (1920,1080)=>(1919,1079)")
